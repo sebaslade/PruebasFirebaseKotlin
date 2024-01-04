@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_escritorio">EscritorioActivity</string>
+    <string name="title_activity_login_gmail">LoginGmailActivity</string>
+    <string name="title_activity_escritorio_gmail">EscritorioGmailActivity</string>
+    <string name="title_activity_base_real">BaseRealActivity</string>
+    <string name="title_activity_almacenamiento">AlmacenamientoActivity</string>
+</resources>

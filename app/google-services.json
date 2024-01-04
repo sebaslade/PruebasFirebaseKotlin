@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23226992961",
+    "project_id": "fir-c36fd-laos",
+    "storage_bucket": "fir-c36fd-laos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23226992961:android:a4a743cc8f8dac1212f9c0",
+        "android_client_info": {
+          "package_name": "com.sebastianlaos.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYo8mbpTDcf8Ua_bLEh4vj_yXQIZHjw_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
